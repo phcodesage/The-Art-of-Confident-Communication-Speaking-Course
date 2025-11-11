@@ -145,14 +145,6 @@ function App() {
           >
             Enroll Now
           </a>
-          <div className="mt-4">
-            <a
-              href="#syllabus"
-              className="inline-block border-2 border-[#ca3433] text-[#ca3433] hover:bg-[#ca3433] hover:text-white font-semibold py-3 px-6 rounded-full transition-colors duration-300"
-            >
-              View Syllabus
-            </a>
-          </div>
 
           <p className="text-gray-600 mt-6 text-sm">
             Transform your communication skills in just 4 weeks
